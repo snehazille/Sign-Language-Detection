@@ -1,2 +1,5 @@
-# Sign-Language-Detection
-This Sign Language Detection project utilizes machine learning algorithms to interpret and translate sign language gestures into text . By leveraging computer vision techniques,  system can accurately recognize and interpret the intricate hand movements and gestures inherent in sign language
+# sign-language-detector-python
+
+Sign language detector with Python, OpenCV and Mediapipe !
+
+[![Watch the video](https://img.youtube.com/vi/MJCSjXepaAM/0.jpg)](https://www.youtube.com/watch?v=MJCSjXepaAM)
